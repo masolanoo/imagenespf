@@ -179,4 +179,16 @@
 			<ymax>212</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>WBC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>331</ymin>
+			<xmax>171</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
 </annotation>
